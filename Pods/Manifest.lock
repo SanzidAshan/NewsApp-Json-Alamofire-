@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - ImageSlideshow/Alamofire (1.0.0):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.0.0)
+  - ObjectMapper (2.2.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ImageSlideshow/Alamofire
+  - ObjectMapper
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  ImageSlideshow: 2787e10e202b79ecf5348a205c539fcc5bb8e62b
+  ObjectMapper: d3b3de11267f5d971f390eb8d63dd509116a4329
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 627c099a3e6eae116b85d24f4741020466f06b95
+
+COCOAPODS: 1.2.0.rc.1
